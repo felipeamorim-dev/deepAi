@@ -1,0 +1,31 @@
+
+.container {
+  display: flex;
+  justify-content: center;
+  margin-top: 25px;
+}
+
+.example-card {
+  display: flex;
+  padding-top: 50px;
+  padding-left: 50px;
+  align-items: center;
+  flex-direction: row;
+  max-width: 1000px;
+  gap: 50px;
+}
+
+.side {
+  display: flex;
+  flex-direction: column;
+}
+
+.title{
+  padding-bottom: 10px;
+}
+
+.example-header-image {
+  background-size: cover;
+}
+
+ 

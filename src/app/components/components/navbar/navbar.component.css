@@ -1,0 +1,15 @@
+.header {
+  display: flex;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  color: aliceblue;
+}
+
+.home_icon {
+  padding-right: 10px;
+}
+
