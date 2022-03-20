@@ -1,5 +1,8 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
+  "cli": {
+    "analytics": "33697127-1c7f-4aae-9fcd-b77e458900c3"
+  },
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
@@ -56,7 +59,9 @@
               "./node_modules/@angular/material/prebuilt-themes/purple-green.css",
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": [
+              "./node_modules/deepai/index.js"
+            ]
           },
           "configurations": {
             "production": {

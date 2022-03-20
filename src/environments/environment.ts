@@ -3,7 +3,9 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  YOUR_API_KEY: '242866c2-0c39-4bf0-bc01-bc7b843a1f69',
+  IMG_BASE: './assets/img/foto-preto-e-branco-paisagem-tecnica.jpg'
 };
 
 /*
